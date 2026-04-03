@@ -14,62 +14,42 @@
 
 ---
 
-<br/>
-
 <table>
 <tr>
-<td width="52%" valign="top">
-
-<br/>
+<td width="55%" valign="top">
 
 **meow✦**
 
 - i might not find a j*b in this economy
 - currently hyper-fixated on **React** and **UX design**
-- i draw sometimes 
+- i draw sometimes
 - im too broke for some of my fav apps so i remake them
 
-</td>
-<td width="48%" align="center" valign="middle">
-
 <br/>
 
-<img src="./assets/about.gif" width="310" alt="about"/>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-### `> right_now.log`
-
-<br/>
-
-<div align="center">
 <table>
 <tr><td>✦</td><td>building little projects that solve little problems</td></tr>
 <tr><td>✦</td><td>i hate sql</td></tr>
 <tr><td>✦</td><td>im gna switch to linux one day</td></tr>
 <tr><td>✦</td><td>i fear unemployment</td></tr>
 </table>
-</div>
 
-<br/>
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="./assets/about.gif" width="280" alt="about"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<br/>
-
 ### `> stack.config`
 
-<br/>
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **languages**
 
@@ -92,6 +72,9 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-0d0d1a?style=flat-square&logo=scikit-learn&logoColor=C9B8F0)
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-0d0d1a?style=flat-square&logo=plotly&logoColor=C9B8F0)
 
+</td>
+<td valign="top" width="50%">
+
 **databases**
 
 ![MongoDB](https://img.shields.io/badge/-mongodb-0d0d1a?style=flat-square&logo=mongodb&logoColor=C9B8F0)
@@ -111,28 +94,16 @@
 ![Cloudflare](https://img.shields.io/badge/-cloudflare-0d0d1a?style=flat-square&logo=cloudflare&logoColor=C9B8F0)
 ![NPM](https://img.shields.io/badge/-npm-0d0d1a?style=flat-square&logo=npm&logoColor=C9B8F0)
 
-<br/>
+</td>
+</tr>
+</table>
 
 ---
 
-<br/>
-
-
 <div align="center">
-  <img src="./assets/coding.jpg" width="130" alt="coding cat"/>
-
-  <br/><br/>
-
-  <em>pls dont find me around the internet</em>
-
-  <br/>
-
   <a href="https://github.com/SharkFishie">
     <img src="https://img.shields.io/badge/-github-0d0d1a?style=flat-square&logo=github&logoColor=C9B8F0" alt="github"/>
   </a>
-  <br/><br/><br/>
-  <img src="./assets/footer.jpg" width="360" alt="meow"/>
-
 </div>
 
 <br/>
