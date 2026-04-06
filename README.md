@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=20&duration=3500&pause=1200&color=C9B8F0&center=true&vCenter=true&width=520&lines=hi+there+%E2%9C%A6;cs+student+%7C+big+data+%26+ai;always+building+something+new;designed+in+dark+mode%2C+obviously" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=20&duration=3500&pause=1200&color=C9B8F0&center=true&vCenter=true&width=520&lines=hi+there+%E2%9C%A6;%3A%29" alt="typing"/>
 </div>
 
 ---
 
-<table>
+<table border="0" align="center">
 <tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="./assets/about.gif" width="200" alt="about"/>
+
+</td>
 <td width="70%" valign="top">
 
 **meow✦**
@@ -18,11 +23,6 @@
 - ✦ i hate sql
 - ✦ im gna switch to linux one day
 - ✦ i fear unemployment
-
-</td>
-<td width="30%" align="center" valign="middle">
-
-<img src="./assets/about.gif" width="200" alt="about"/>
 
 </td>
 </tr>
